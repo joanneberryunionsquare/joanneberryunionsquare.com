@@ -36,6 +36,10 @@
 			line-height: inherit;
 			padding: 0 1.5em;
 
+			span.short-subtitle {
+				display: none;
+			}
+
 			strong {
 				@include vendor('transition', (
 					'background-color #{_duration(transition)} ease-in-out',
@@ -218,6 +222,9 @@
 			.logo {
 				span {
 					display: none;
+				}
+				span.short-subtitle {
+					display: inline-block;
 				}
 			}
 
