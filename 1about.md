@@ -17,10 +17,10 @@ I am a proud member of ABCDE, which is a platform of some of the Union Square Ne
 
 ABCDE stands for:
 
-Avoiding displacement of our neighbors
-Building a strong membership base
-Community benefit negotiations that hold developers accountable
-Democratizing development so it benefits the many, not the few
-Evaluating and advising on development proposals
+*A*voiding displacement of our neighbors<br />
+*B*uilding a strong membership base<br />
+*C*ommunity benefit negotiations that hold developers accountable<br />
+*D*emocratizing development so it benefits the many, not the few<br />
+*E*valuating and advising on development proposals
 
-To learn more about this fantastic group and its members click [here](https://abcdeusnc.tumblr.com)
+To learn more about this fantastic group and its members [click here](https://abcdeusnc.tumblr.com)
