@@ -5,8 +5,44 @@ description: When, where, and how
 preview_image: assets/images/voted.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+## "Don't Boo. Vote!" -Former President Barack Obama
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+This is your first step as a Union Square community member to input your voice into the redevelopment process!!
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+## When
+
+Saturday, December 2, 2017 from 10:00am to 2:00pm
+
+Wednesday, December 6th, 2017 from 7:00am to 8:00pm
+
+## Where
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.2903053998075!2d-71.09458048394958!3d42.378961779185616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370ca309869b5%3A0x4cceadd03083f540!2s220+Washington+St%2C+Somerville%2C+MA+02143!5e0!3m2!1sen!2sus!4v1511841534905" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Somerville Public Safety Building<br />
+220 Washington Street<br />
+Somerville, MA 02143
+
+(the Police Department in Union Square)
+
+## How
+
+Anyone **16 or older** is eligible to vote!
+
+If you live and/or work in [Union Square Neighborhood Boundaries](http://unionsquareneighborhoodcouncil.org/)
+
+As included on the USNC website, remember to bring one of the following items as proof of eligibility
+
+  - government ID
+  - piece of mail to your address
+  - school documents demonstrating Union Square residence
+  - utility bill
+  - pay stub from Union Square business
+  - rent or mortgage receipt
+  - lease
+  - letter from employer based in Union Square
+  - business card with your name on it from a business based in Union Square
+  - deed
+  - tax bill
+
+

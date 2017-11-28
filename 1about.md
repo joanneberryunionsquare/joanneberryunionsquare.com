@@ -5,8 +5,22 @@ description: Who I am
 preview_image: assets/images/headshot.jpg
 ---
 
-<span class="image right"><img src="assets/images/headshot.jpg" alt="" /></span>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<span class="image right"><img src="assets/images/headshot.jpg" alt="" /></span>Hello! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+I was born and raised in a suburb of Cleveland, Ohio and graduated with a Bachelor's of Science in Biochemistry from Ohio Northern University. Through my alma mater, I managed to find a job as a research technician for a pulmonary stem cell lab at Boston Children's Hospital. This is where my Union Square story began. 
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+I had 12 hours to meet my roommate and find an apartment and we lucked out finding an affordable apartment at the top of Prospect Hill in Union Square. Fast forward one year and I met my boyfriend, Nick, at a mutual friend's wedding. As luck continued, I discovered he also lived in Union Square at the bottom of Prospect Hill! Our two dogs, Stormy and Demetri, love going on long walks over to the dog park at Nunziato field. Nick and I enjoy eating at all of the restaurants in Union Square and sampling the local breweries. Over the past 3.5 years as a Union Square resident, I have claimed this neighborhood as my physical New England foundation and have fallen in love with everything it has to offer. 
+
+I want to preserve the integrity of this incredible community as the master developer, US2, introduces and moves forward with its plans for development and growth. With the Green Line Extension finally in motion, it is understandable that change will come to Union Square. I am confident though, through proper communication, planning, and respect for our community, Union Square will maintain the affordability and charisma that attracted me to this neighborhood fresh out of Ohio. 
+
+I am a proud member of ABCDE, which is a platform of some of the Union Square Neighborhood Council Candidates, to continue to work together with USNC beyond the election.
+
+ABCDE stands for:
+
+Avoiding displacement of our neighbors
+Building a strong membership base
+Community benefit negotiations that hold developers accountable
+Democratizing development so it benefits the many, not the few
+Evaluating and advising on development proposals
+
+To learn more about this fantastic group and its members click [here](https://abcdeusnc.tumblr.com)
