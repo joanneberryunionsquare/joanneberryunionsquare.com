@@ -12,23 +12,23 @@ The Union Square Neighborhood Council is an opportunity for Union Square communi
 
 Each Union Square Neighborhood Council Candidate received a packet that included the following details for USNC. 
 
-### USNC's Vision:
+### USNC's Vision
 
 Keep Union Square a thriving, engaged, enjoyable, inclusive, sustainable, diverse urban neighborhood and vibrant commercial center.
 
-### USNC's Mission:
+### USNC's Mission
 
 Shape the future of Union Square as an increasingly inclusive and vibrant neighborhood and commercial center built around the aspiration of the people who live and work here.
 
-### USNC's Values:
+### USNC's Values
 
 Interdependence, inclusion, wellness, participation, equity, enjoyment, stewardship, transparency, and civic engagement.
 
-### USNC's Goals:
+### USNC's Goals
 
 Build a community, empower members of the community, minimize displacement and promote affordability, increase economic opportunity, and steward the public realm and built environment.
 
-### USNC's Candidates:
+### USNC's Candidates
 
 Get to know all of the candidates using the link below.
 
