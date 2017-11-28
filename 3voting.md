@@ -5,9 +5,10 @@ description: When, where, and how
 preview_image: assets/images/voted.jpg
 ---
 
-## "Don't Boo. Vote!" -Former President Barack Obama
+> Don't Boo. Vote!<br />
+<span class="attribution">*-Former President Barack Obama*</span>
 
-This is your first step as a Union Square community member to input your voice into the redevelopment process!!
+This is your first step as a Union Square community member to input your voice into the redevelopment process!
 
 ## When
 

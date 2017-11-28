@@ -121,11 +121,37 @@
 		top: -0.5em;
 	}
 
+	blockquote::before{
+	    content: "\201C";
+
+		font-family: Georgia, serif;
+	    font-size: 70px;
+	    font-weight: bold;
+	    
+	    position: absolute;
+	    left: 10px;
+	    top:0px;
+	}
+
 	blockquote {
+		display: block;
+		position: relative;
 		border-left: solid 4px _palette(border);
 		font-style: italic;
+		font-family: Georgia, serif;
+		font-size: 2em;
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
+
+		.attribution {
+			font-family: _font(family);
+			font-size: 0.5em;
+			margin-left: -50px;
+		}
+
+		p{
+			margin: 0px;
+		}
 	}
 
 	code {
