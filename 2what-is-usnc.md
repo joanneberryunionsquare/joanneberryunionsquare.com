@@ -8,7 +8,7 @@ banner_image: assets/images/sign.jpg
 
 The Union Square Neighborhood Council is an opportunity for Union Square community members to influence the redevelopment process, negotiate with US2 and other developers, and educate neighbors on the progress of the changes in the coming years. This will be the first neighborhood council paving the way for more councils throughout Somerville. 
 
-15 of the 46 candidates for USNC will be elected on December 2nd and December 6th. Those elected candidates will then regularly meet with US2, the Somerville Planning Board, Mayor Joe Curtatone, and most importantly, the Union Square community to address questions and concerns raised on all fronts. The USNC will act as a constant mediator along the redevelopment process. 
+15 of the 46 candidates for USNC will be elected on December 2nd and December 6th. Those elected candidates will then regularly meet with US2, the Somerville Planning Board, Mayor Joe Curtatone, and most importantly, the Union Square community to address questions and concerns raised on all fronts. The USNC will act as a constant mediator along the redevelopment process.
 
 Each Union Square Neighborhood Council Candidate received a packet that included the following details for USNC. 
 
