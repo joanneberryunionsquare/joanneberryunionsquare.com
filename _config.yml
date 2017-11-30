@@ -11,7 +11,7 @@ author: pettazz
 street_address: 23 Rossmore Street
 city: Somerville
 state: MA
-zip_code: 02143
+zip_code: "02143"
 country: United States of America
 
 # homepage tiles
