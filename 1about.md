@@ -17,14 +17,3 @@ In my spare time I volunteer for Boston Health Care for the Homeless Program (BH
 
 I want to preserve the integrity of this incredible community as the master developer, US2, introduces and moves forward with its plans for development and growth. With the Green Line Extension finally in motion, it is understandable that change will come to Union Square. I am confident though, through proper communication, planning, and respect for our community, Union Square will maintain the affordability and charisma that attracted me to this neighborhood fresh out of Ohio. 
 
-I am a proud member of ABCDE, which is a platform of some of the Union Square Neighborhood Council Candidates, to continue to work together with USNC beyond the election.
-
-ABCDE stands for:
-
-**A**voiding displacement of our neighbors<br />
-**B**uilding a strong membership base<br />
-**C**ommunity benefit negotiations that hold developers accountable<br />
-**D**emocratizing development so it benefits the many, not the few<br />
-**E**valuating and advising on development proposals
-
-To learn more about this fantastic group and its members [click here](https://abcdeusnc.tumblr.com)
