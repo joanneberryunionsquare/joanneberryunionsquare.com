@@ -20,7 +20,7 @@ The main park proposed on parcel D1 will be 27,000 square feet. That is smaller 
 
 ![Park Proposal Map](/assets/images/parks-development-map.jpg "sad")
 
-Of course, these are all just proposals at this point. The Somerville Planning Board still has to vote to approve the special permit. The USNC needs to be established (elected and regularly meeting) before any development can begin. There is time to have input in the future of our neighborhood and being aware of the plans is the first step. 
+Of course, these are all just proposals at this point. The Somerville Planning Board still has to vote to approve the special permit. The USNC needs to be established (elected and regularly meeting) before any development can begin. There is time to have input in the future of our neighborhood and voting for qualified candidates is crucial to making your voice heard. 
 
 If you would like to read more information about US2's proposals, please refer to [Union Square Planning Coordinated Development Plan](https://www.somervillema.gov/departments/union-square-planning) for the detailed application and appendices US2 has submitted to the city of Somerville. 
 
