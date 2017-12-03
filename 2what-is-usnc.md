@@ -28,8 +28,8 @@ Interdependence, inclusion, wellness, participation, equity, enjoyment, stewards
 
 Build a community, empower members of the community, minimize displacement and promote affordability, increase economic opportunity, and steward the public realm and built environment.
 
-### USNC's Candidates
+### ABCDE Platform Candidates
 
-Get to know all of the candidates using the link below.
+Get to know all of the candidates I am proud to support and run with using the link below.
 
-[Candidates](http://unionsquareneighborhoodcouncil.org/candidates)
+[Candidates](https://abcdeusnc.tumblr.com/)
