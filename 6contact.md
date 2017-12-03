@@ -1,10 +1,22 @@
 ---
 layout: post
-title: Contact
-description: Get in touch
-preview_image: assets/images/plaza.jpg
-banner_image: assets/images/plaza.jpg
+title: ABCDE Platform
+description: For the Many, Not the Few
+preview_image: assets/images/abcde-group.jpg
+banner_image: assets/images/abcde-group.jpg
 ---
 
-Use the <a href="#contact">form below</a> to get in touch with me!
-
+- Afruza Akther
+- Andrea Lizama
+- Ben Baldwin
+- Ben Bradlow
+- Bill Cavelini
+- Ann Camara
+- Ganesh Uprety
+- Jacob Kramer
+- Michèle Hansen
+- Joanne Berry
+- Mike Firestone
+- Pennie Taylor
+- Peter Insley
+- Rachel Weil
