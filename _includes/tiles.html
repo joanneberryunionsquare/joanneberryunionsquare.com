@@ -2,8 +2,7 @@
 	
 	{% if site.tiles-source == 'pages' %}
                 {% for page in site.pages %}
-                        {% if page.title %}
-                        {% if page.title != 'Home' %}
+                        {% if page.title and page.title != 'Home' and page.title != 'Not Found' %}
                                 <article>
                                         <span class="image">
                                                 <img src="{{ page.preview_image }}" alt="" />
@@ -13,7 +12,6 @@
                                                 <p>{{ page.description }}</p>
                                         </header>
                                 </article>
-                        {% endif %}
                         {% endif %}
                 {% endfor %}
 	{% endif %}

@@ -24,6 +24,10 @@
 		position: relative;
 		top: -3.25em;
 
+		&.fourohfour{
+			@include vendor('background-image', 'url("../images/cocacola-eyes.jpg")');
+		}
+
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
